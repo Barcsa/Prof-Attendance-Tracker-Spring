@@ -1,11 +1,13 @@
-The UniProf Hours Tracker is a Spring Boot-based application designed to streamline the process of recording and managing hours attended by university professors. This system offers a user-friendly interface for professors to register their attendance hours efficiently. The standout feature includes seamless export functionality, allowing users to generate detailed Excel reports effortlessly. Enhance accountability, simplify record-keeping, and facilitate data analysis with the UniProf Hours Tracker.
+Developed and implemented a comprehensive system for tracking and managing university professors' teaching hours. The system facilitates efficient registration of instructional hours, providing a centralized platform for professors to log their teaching activities. This initiative aimed to enhance transparency, streamline administrative processes, and contribute to accurate reporting of professors' educational contributions. Additionally, the system allows for seamless data export via Excel, offering a convenient way to generate detailed reports for further analysis and documentation.
 
-Key Features:
+The administrator has the authority to establish an account by furnishing the required information. Subsequently, after initializing the password, each professor is required to modify their login credentials.
 
-#Intuitive Spring Boot web application with React UI.
+The administrator's interface facilitates the creation of a course entity and the connection of the respective professor to it.
 
-#Hassle-free registration of hours attended by university professors.
+All data is available via the administrator page, with the option to export each page to Excel. Details regarding university hours are restricted to administrator access, or individual professors can view only their respective schedules.
 
-#Robust Excel export functionality for comprehensive reporting.
+The admin user has the ability to generate new professor profiles, and exclusive access is granted solely to the admin user to view their details, including email addresses, phone numbers, and names.
 
-#Streamlined user experience for efficient time management.
+The professor uses the page to log attended university hours, and subsequently, this data can be exported via Excel either from the user or the admin page.
+
+Ultimately, each attended course is visible either on the user page, with professors only able to view their own courses, or on the admin page where all registered courses can be viewed. Additionally, all information can be exported via Excel.
