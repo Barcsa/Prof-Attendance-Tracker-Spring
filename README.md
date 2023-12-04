@@ -1,4 +1,4 @@
-University Management System
+# University Management System
 
 
 Developed and implemented a comprehensive system for tracking and managing university professors' teaching hours. The system facilitates efficient registration of instructional hours, providing a centralized platform for professors to log their teaching activities. This initiative aimed to enhance transparency, streamline administrative processes, and contribute to accurate reporting of professors' educational contributions. Additionally, the system allows for seamless data export via Excel, offering a convenient way to generate detailed reports for further analysis and documentation.
